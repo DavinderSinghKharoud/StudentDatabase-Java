@@ -6,7 +6,7 @@
 2. Java
 
 * ### Application Functions
- >Task of creating email accounts for new hires.
+ >create an application to manage student enrollments and balance.
  
 
 
